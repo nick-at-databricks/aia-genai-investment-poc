@@ -1,3 +1,4 @@
+CREATE OR REPLACE VIEW `catalog`.`schema`.`unrealized_gain_view` AS
 select
   `Source Price Date`,
   `Company Code`,
